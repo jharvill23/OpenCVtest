@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         else{
             Log.d(TAG, "Opencv not loaded");
         }
-
+    //some changes
     }
 
     @Override
