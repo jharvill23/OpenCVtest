@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         }
     //some changes
     }
-
+    //more changes for third commit
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
